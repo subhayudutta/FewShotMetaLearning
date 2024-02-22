@@ -1,0 +1,2 @@
+[console_scripts]
+meta_visionary = meta_visionary.few_shot_meta.py:main
